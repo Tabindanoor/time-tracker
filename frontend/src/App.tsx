@@ -7,9 +7,9 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-     <p>this is me with tailwind</p>
-    </>
+    <div>
+      
+    </div>
   )
 }
 
